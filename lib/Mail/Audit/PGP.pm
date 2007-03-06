@@ -1,7 +1,7 @@
 package Mail::Audit::PGP;
 use Mail::Audit;
 use vars qw(@VERSION);
-$VERSION = '2.250';
+$VERSION = '1.701';
 1;
 
 package Mail::Audit;
