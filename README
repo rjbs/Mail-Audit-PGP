@@ -1,4 +1,0 @@
-
-Mail::Audit::PGP is a plugin for Mail::Audit.  It rewrites headers on PGP
-messages.
-
